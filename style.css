@@ -1,0 +1,17 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.main{
+    background-image: url('assets/wave-haikei.svg');
+    margin: 45px auto;
+    background-position: 35%;
+    background-size: cover;
+    height: auto;
+    border: 2px solid black;
+
+}
+
+label{
+    font-weight: bolder;
+}
